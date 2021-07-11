@@ -1,1 +1,2 @@
 # GrokkingDeepLearning
+# GrokkingDeepLearning.jl
