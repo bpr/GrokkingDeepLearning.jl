@@ -1,0 +1,13 @@
+name = "GrokkingDeepLearning"
+uuid = "5908c04b-54d9-4e12-9f16-278c86f1ef32"
+authors = ["Brian Rogoff <brogoff@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
